@@ -10,8 +10,7 @@ export const Home = () => {
         <h1 className="font-bold text-5xl md:text-7xl mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent  leading-tight">
           Hi, I'm Yash Samar
         </h1>
-        <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto"> I'm a full-stack developer passionate about crafting clean, scalable web 
-  applications. My goal is to build solutions that deliver exceptional 
+        <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto"> I'm a full-stack developer passionate about crafting clean and scalable web applications. My goal is to build solutions that deliver exceptional performance while ensuring a seamless and delightful user experience.
   performance while ensuring a seamless and delightful user experience.</p>
         <div className="justify-center flex space-x-4">
           <a
